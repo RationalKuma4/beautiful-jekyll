@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://RationalKuma4.github.io"
-baseurl: "RationalKuma4.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -45,8 +45,8 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Jorge Alvarado
   email: "youremail@domain.com"
-  facebook: https://www.facebook.com/anselmo.alvarado  # eg. daattali
-  github: https://github.com/RationalKuma4    # eg. daattali
+  facebook: anselmo.alvarado  # eg. daattali
+  github: RationalKuma4    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -63,7 +63,7 @@ author:
 footer-links-active:
   rss: false
   facebook: true
-  email: true
+  email: false
   twitter: true
   google-plus: false
   github: true
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -112,11 +112,11 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Mexico"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 8
 
 kramdown:
   input: GFM
