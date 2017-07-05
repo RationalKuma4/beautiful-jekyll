@@ -23,7 +23,7 @@ description: Posts about something!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "_about/CVJorgeAlvarado.pdf"
+  About Me: "_about/about.md"
   Resources:
     - Beautiful Jekyll: ""
     - Learn markdown: ""
