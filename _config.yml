@@ -47,17 +47,17 @@ author:
   email: "youremail@domain.com"
   facebook: anselmo.alvarado  # eg. daattali
   github: RationalKuma4    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  twitter:    # eg. daattali
+  reddit:     # eg. daattali
+  google-plus:    # eg. +DeanAttali or 109424658772469020925
+  linkedin:   # eg. daattali
+  xing:       # eg. daattali
+  stackoverflow:   # eg. "3943160/daattali"
+  snapchat:   # eg. daattali
+  instagram:  # eg. daattali
+  youtube:    # eg. user/daattali or channel/daattali
+  spotify:    # eg. daattali
+  telephone:    # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
