@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Blog personal
+#title: Blog personal
 
 # Short description of your site
 description: Posts sobre cosas variadas
