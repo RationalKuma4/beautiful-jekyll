@@ -23,12 +23,12 @@ description: Posts sobre cosas variadas
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about.md"
+  Acerca: "aboutme.md"
   Resources:
     - Beautiful Jekyll: ""
     - Learn markdown: ""
     - GitHub Pages: ""
-  Otros: "2015-01-04-first-post.md"
+  Otros: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
