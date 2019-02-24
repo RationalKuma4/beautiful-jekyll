@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graficar una carta de Smith simple
-image: /img/carta - copia.png
+image: /img/cartacopia.png
 tags: [escuela, lineas-transmision]
 ---
 
