@@ -5,27 +5,14 @@ image: /img/carta.jpeg
 tags: [escuela, lineas-transmision]
 ---
 
-An h1 header
+Carta de Smith en Matlab
 ============
+Para graficar la carta nos apoyaremos de 2 vectores.
 
-Paragraphs are separated by a blank line.
+~~~matlab
+r=[0 .2 .4 .6 .8 1 1.5 3 10 50];
+x=[.1 .3 .5 .7 1 1.4 2 4 10 50];
+~~~
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
 
-  * this one
-  * that one
-  * the other one
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺

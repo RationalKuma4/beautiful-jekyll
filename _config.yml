@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Acerca: "_about/aboutme.md"
+  Acerca: "aboutme.md"
   Resources:
     - Beautiful Jekyll: ""
     - Learn markdown: ""
