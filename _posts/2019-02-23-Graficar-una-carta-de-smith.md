@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graficar una carta de Smith simple
-image: /img/carta.jpeg
+image: /img/carta - copia.png
 tags: [escuela, lineas-transmision]
 ---
 
@@ -14,5 +14,5 @@ r=[0 .2 .4 .6 .8 1 1.5 3 10 50];
 x=[.1 .3 .5 .7 1 1.4 2 4 10 50];
 ~~~
 
-
+Donde 
 
